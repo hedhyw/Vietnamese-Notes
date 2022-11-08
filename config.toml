@@ -1,0 +1,9 @@
+baseURL = 'https://vietnamese.ocmoxa.com/'
+languageCode = 'en-us'
+theme = 'hugo-book'
+title = 'South Vietnamese course for beginners'
+
+[params]
+    BookMenuBundle = '/menu'
+    BookSearch = false
+    BookComments = false

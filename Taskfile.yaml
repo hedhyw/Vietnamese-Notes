@@ -1,0 +1,35 @@
+# https://taskfile.dev
+
+version: '3'
+
+tasks:
+  server:
+    desc: Run dev server.
+    cmds:
+      - hugo server -D
+
+  generate:
+    desc: Generate static code.
+    cmds:
+      - hugo --minify
+
+  prepare:
+    desc: Prepare project for the first use.
+    deps:
+      - prepare:pre-commit
+
+  prepare:pre-commit:
+    desc: Install pre-commit hooks.
+    cmds:
+      - pre-commit install
+        --allow-missing-config
+        -t pre-commit
+        -t pre-push
+        -t prepare-commit-msg
+        -t post-merge
+        -t post-checkout
+
+  pre-commit:
+    desc: Run pre-commit checks for all files.
+    cmds:
+      - pre-commit run --all-files
