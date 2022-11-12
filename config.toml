@@ -1,9 +1,10 @@
 baseURL = 'https://vietnamese.ocmoxa.com/'
 languageCode = 'en-us'
-theme = 'hugo-book'
-title = 'South Vietnamese course for beginners'
+theme = 'etch'
+title = 'Vietnamese jottings'
 
 [params]
-    BookMenuBundle = '/menu'
-    BookSearch = false
-    BookComments = false
+  description = "Free Vietnamese language grammar notes for beginners"
+  copyright = "Copyright © 2022 github.com/hedhyw"
+  dark = "auto"
+  highlight = true

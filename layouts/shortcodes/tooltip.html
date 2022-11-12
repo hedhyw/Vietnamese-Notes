@@ -3,7 +3,7 @@
     .tooltip {
         position: relative;
         display: inline-block;
-        border-bottom: 1px dotted black;
+        /* border-bottom: 1px dotted black; */
         cursor: default;
     }
 
@@ -35,9 +35,11 @@
     }
 </style>
 
-<div class="tooltip">{{- .Inner | safeHTML -}}
+<div class="tooltip">
+    <a href="https://en.wiktionary.org/wiki/{{- trim (.Inner | safeHTML | lower) "\n\t " -}}#Vietnamese" target="_blank">
+        {{- .Inner | safeHTML -}}
+    </a>
     <span class="tooltiptext">
-        {{- .Get "text" | safeHTML }}
-        <a href="https://en.wiktionary.org/wiki/{{- trim (.Inner | safeHTML | lower) "\n\t " -}}#Vietnamese">🔗</a>
+        {{- .Get 0 | safeHTML }}
     </span>
 </div>
