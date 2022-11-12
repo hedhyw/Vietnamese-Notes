@@ -1,13 +1,15 @@
-# Vietnamese Course
+# Vietnamese Jottings
 
-This is south Vietnamese course for beginners!
+Short and simple Vietnamese language 🇻🇳 grammar notes with examples
+for beginner language learners.
 
 ## Contribution
 
 ### Requirements
 
 - [hugo](https://gohugo.io/getting-started/quick-start/#step-1-install-hugo).
-- [taskfile](https://taskfile.dev/installation/)
+- [taskfile](https://taskfile.dev/installation/).
+- [pre-commit](https://pre-commit.com/)
 
 ### Preparation
 
@@ -15,6 +17,6 @@ This is south Vietnamese course for beginners!
 
   `task prepare`.
 
-### Course
+### Content
 
 - The content is located in [content/posts](content/posts).
