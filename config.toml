@@ -5,6 +5,6 @@ title = 'Vietnamese jottings'
 
 [params]
   description = "Free Vietnamese language grammar notes for beginners"
-  copyright = "Copyright © 2022 github.com/hedhyw"
+  copyright = "github.com/hedhyw/Vietnamese-Notes"
   dark = "auto"
   highlight = true
