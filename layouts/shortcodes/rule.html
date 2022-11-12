@@ -1,0 +1,17 @@
+<style>
+    .rule {
+        margin: 2rem;
+        padding: 2rem;
+        border-inline-start: 0.25rem solid var(--gray-200);
+        border-inline-start-style: solid;
+        border-radius: 0.25rem;
+        border-color: rgb(102, 140, 255);
+        background-color: rgba(102, 201, 255, 0.1);
+        font-style: normal;
+        line-height: 1.6;
+    }
+</style>
+
+<div class="rule">
+    {{- .Inner | markdownify -}}
+</div>
