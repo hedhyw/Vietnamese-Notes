@@ -24,4 +24,4 @@ The site is: [vietnamese.ocmoxa.com](https://vietnamese.ocmoxa.com).
 ### Content
 
 - The content is located in [content/posts](content/posts).
-- Awesome resources placed in [content/posts/0-resources.md](content/posts/0-resources.md).
+- Awesome resources are placed in [content/posts/0-resources.md](content/posts/0-resources.md).
