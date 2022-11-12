@@ -1,8 +1,13 @@
 # https://taskfile.dev
 
-version: '3'
+version: "3"
 
 tasks:
+  run:
+    desc: An alias for `task server``.
+    cmds:
+      - task: server
+
   server:
     desc: Run dev server.
     cmds:
@@ -31,5 +36,11 @@ tasks:
 
   pre-commit:
     desc: Run pre-commit checks for all files.
+    deps: ["prepare:pre-commit"]
     cmds:
       - pre-commit run --all-files
+
+  check:
+    desc: Lint the files.
+    cmds:
+      - task: pre-commit
