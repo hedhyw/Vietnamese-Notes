@@ -3,6 +3,10 @@
 Short and simple Vietnamese language 🇻🇳 grammar notes with examples
 for beginner language learners.
 
+<img width=200 src=static/images/undraw_Mindfulness_re_5cuv.png>
+
+The site is: [vietnamese.ocmoxa.com](https://vietnamese.ocmoxa.com).
+
 ## Contribution
 
 ### Requirements
@@ -20,3 +24,4 @@ for beginner language learners.
 ### Content
 
 - The content is located in [content/posts](content/posts).
+- Awesome resources are placed in [content/posts/0-resources.md](content/posts/0-resources.md).
