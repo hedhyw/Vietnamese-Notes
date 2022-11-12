@@ -1,8 +1,9 @@
+{{- if not ($.Page.Scratch.Get "tooltipcount") -}}
 <style>
     /* Tooltip container */
     .tooltip {
         position: relative;
-        display: inline-block;
+        display: inline;
         /* border-bottom: 1px dotted black; */
         cursor: default;
     }
@@ -10,7 +11,7 @@
     /* Tooltip text */
     .tooltip .tooltiptext {
         visibility: hidden;
-        background-color: rgba(0, 0, 0, 0.6);
+        background-color: rgba(64, 89, 188, 0.9);
         color: #fff;
         text-align: center;
         padding: 5px 0;
@@ -34,6 +35,10 @@
         visibility: visible;
     }
 </style>
+
+{{- end -}}
+
+{{- $.Page.Scratch.Add "tooltipcount" 1 -}}
 
 <div class="tooltip">
     <a href="https://en.wiktionary.org/wiki/{{- trim (.Inner | safeHTML | lower) "\n\t " -}}#Vietnamese" target="_blank">
