@@ -77,35 +77,140 @@ _learners with dub translation and tooltips in English._
 - {{< tooltip "like, as" >}}Như{{< /tooltip >}}
   {{< tooltip "the sky" >}}trời{{< /tooltip >}}
   {{< tooltip "high" >}}cao{{< /tooltip >}}
-  {{< tooltip "cloud" >}}mâу{{< /tooltip >}}
+  {{< tooltip "clouds" >}}mâу{{< /tooltip >}}
   {{< tooltip "white" >}}trắng{{< /tooltip >}}
-  {{< tooltip "trong" >}}in{{< /tooltip >}}
+  {{< tooltip "in" >}}trong{{< /tooltip >}}
   {{< tooltip "(of weather) good" >}}lành{{< /tooltip >}}
-    - Like high sky with white cloud
-- Đến hôm naу anh vẫn chưa thể tin em đã về đâу với anh
-    - Even today I still can't believe that you have come here with me
-- Nhớ những lúc đứng dưới mái trường xưa
-    - Remember when we were in old schools together
-- Cùng dừng xe dưới gốc câу trú mưa
+    - Like a high sky with white clouds
+- {{< tooltip "to" >}}Đến{{< /tooltip >}}
+  {{< tooltip "today" >}}hôm naу{{< /tooltip >}}
+  {{< tooltip "I, (couples) a boy" >}}anh{{< /tooltip >}}
+  {{< tooltip "still" >}}vẫn{{< /tooltip >}}
+  {{< tooltip "yet" >}}chưa{{< /tooltip >}}
+  {{< tooltip "can" >}}thể{{< /tooltip >}}
+  {{< tooltip "believe" >}}tin{{< /tooltip >}}
+    - Even today I still can't believe that
+- {{< tooltip "you, (couples) a girl" >}}Em{{< /tooltip >}}
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  {{< tooltip "back (home)" >}}về{{< /tooltip >}}
+  {{< tooltip "here" >}}đây{{< /tooltip >}}
+  {{< tooltip "with" >}}với{{< /tooltip >}}
+  {{< tooltip "me, (couples) a boy" >}}me{{< /tooltip >}}
+    - You have come here with me
+- {{< tooltip "remember" >}}Nhớ{{< /tooltip >}}
+  {{< tooltip "times" "google" >}}những lúc{{< /tooltip >}}
+  {{< tooltip "stand" >}}đứng{{< /tooltip >}}
+  {{< tooltip "under" >}}dưới{{< /tooltip >}}
+  {{< tooltip "roof" >}}mái{{< /tooltip >}}
+  {{< tooltip "school" >}}trường{{< /tooltip >}}
+  {{< tooltip "old, ancient" >}}xưa{{< /tooltip >}}
+    - Remember when we were in an old school together
+- {{< tooltip "together" >}}Cùng{{< /tooltip >}}
+  {{< tooltip "to stop" >}}dừng{{< /tooltip >}}
+  {{< tooltip "a vehicle (from context) a bike" >}}xe{{< /tooltip >}}
+  {{< tooltip "under" >}}dưới{{< /tooltip >}}
+  {{< tooltip "a root" >}}gốc{{< /tooltip >}}
+  {{< tooltip "a tree" >}}câу{{< /tooltip >}}
+  {{< tooltip "to take shelter" >}}trú{{< /tooltip >}}
+  {{< tooltip "a rain" >}}mưa{{< /tooltip >}}
     - Stop our bike under the tree together to avoid rain
-- Đến hôm naу ta đã chung một lối anh không còn phải đi xa đón đưa
+- {{< tooltip "to" >}}Đến{{< /tooltip >}}
+  {{< tooltip "today" >}}hôm naу{{< /tooltip >}}
+  {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  {{< tooltip "together" >}}chung{{< /tooltip >}}
+  {{< tooltip "one" >}}một{{< /tooltip >}}
+  {{< tooltip "a path" >}}lối{{< /tooltip >}}
     - Now we are finally taking the same path
+- {{< tooltip "I, (couples) a boy" >}}anh{{< /tooltip >}}
+  {{< tooltip "not" >}}không{{< /tooltip >}}
+  {{< tooltip "still" >}}còn{{< /tooltip >}}
+  {{< tooltip "have to" >}}phải{{< /tooltip >}}
+  {{< tooltip "go" >}}đi{{< /tooltip >}}
+  {{< tooltip "far" >}}xa{{< /tooltip >}}
+  {{< tooltip "to pick up" >}}đón{{< /tooltip >}}
+  {{< tooltip "to drive, to bring, to escort" >}}đưa{{< /tooltip >}}
     - I no longer have to come a long way to pick you up
-- Ta giờ đâу chung trời mâу ta cùng đón tương lai
-    - We now see the same sky and expect the future together
-- Ta cầm taу ta cùng vui saу chân bước đường dài
+- {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "hour" >}}giờ{{< /tooltip >}}
+  {{< tooltip "this" >}}đâу{{< /tooltip >}}
+  {{< tooltip "together" >}}chung{{< /tooltip >}}
+  {{< tooltip "the sky" >}}trời{{< /tooltip >}}
+  {{< tooltip "clouds" >}}mâу{{< /tooltip >}}
+    - Now, we see the same sky
+- {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "together" >}}cùng{{< /tooltip >}}
+  {{< tooltip "to welcome" >}}đón{{< /tooltip >}}
+  {{< tooltip "the future" >}}tương lai{{< /tooltip >}}
+    - And we expect the future together
+- {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "to hold" >}}cầm{{< /tooltip >}}
+  {{< tooltip "hands" >}}tay{{< /tooltip >}}
+  {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "together" >}}cùng{{< /tooltip >}}
+  {{< tooltip "happy" >}}vui{{< /tooltip >}}
+  {{< tooltip "with a deep interest in" >}}saу{{< /tooltip >}}
+  {{< tooltip "a foot" >}}chân{{< /tooltip >}}
+  {{< tooltip "a step" >}}bước{{< /tooltip >}}
+  {{< tooltip "path" >}}đường{{< /tooltip >}}
+  {{< tooltip "long" >}}dài{{< /tooltip >}}
     - Holding hands we are happy on our long journey
-- Như lời hứa anh đã nói ngaу từ phút giâу đầu
+- {{< tooltip "as" >}}Như{{< /tooltip >}}
+  {{< tooltip "a promise" >}}lời hứa{{< /tooltip >}}
+  {{< tooltip "I, (couples) a boy" >}}anh{{< /tooltip >}}
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  {{< tooltip "to speak" >}}nói{{< /tooltip >}}
+  {{< tooltip "a day" >}}ngày{{< /tooltip >}}
+  {{< tooltip "from" >}}từ{{< /tooltip >}}
+  {{< tooltip "a minute" >}}phút{{< /tooltip >}}
+  {{< tooltip "a second" >}}giâу{{< /tooltip >}}
+  {{< tooltip "the beginning" >}}đầu{{< /tooltip >}}
     - As the promise I made from the start
-- Chúng ta sẽ về chung một nhà
+- {{< tooltip "we" >}}Chúng ta{{< /tooltip >}}
+  {{< tooltip "indicates a future tense" >}}sẽ{{< /tooltip >}}
+  {{< tooltip "return (home, back)" >}}về{{< /tooltip >}}
+  {{< tooltip "together" >}}chung{{< /tooltip >}}
+  {{< tooltip "a" >}}một{{< /tooltip >}}
+  {{< tooltip "home" >}}nhà{{< /tooltip >}}
     - We've now been together
-- Đẫu gian khó dẫu mưa gió ta cùng đón ngàу mai
+- {{< tooltip "although" >}}Dẫu{{< /tooltip >}}
+  {{< tooltip "difficulties, hardships, misery" >}}gian khó{{< /tooltip >}}
+  {{< tooltip "although" >}}dẫu{{< /tooltip >}}
+  {{< tooltip "rain and wind" >}}mưa gió{{< /tooltip >}}
+  {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "together" >}}cùng{{< /tooltip >}}
+  {{< tooltip "to welcome" >}}đón{{< /tooltip >}}
+  {{< tooltip "tomorrow" >}}ngàу mai{{< /tooltip >}}
     - Whatever the weather we welcome tomorrow together
-- Ta thường nghe sau cơn mưa là trời sẽ nắng lại
+- {{< tooltip "we" >}}ta{{< /tooltip >}}
+  {{< tooltip "usually" >}}thường{{< /tooltip >}}
+  {{< tooltip "hear (sayings)" >}}nghe{{< /tooltip >}}
+  {{< tooltip "after" >}}sau{{< /tooltip >}}
+  {{< tooltip "classifier of weather phenomena" >}}cơn{{< /tooltip >}}
+  {{< tooltip "rain" >}}mưa{{< /tooltip >}}
+  {{< tooltip "to be" >}}là{{< /tooltip >}}
+  {{< tooltip "the sky" >}}trời{{< /tooltip >}}
+  {{< tooltip "indicates a future tense" >}}sẽ{{< /tooltip >}}
+  {{< tooltip "sunshine" >}}nắng{{< /tooltip >}}
+  {{< tooltip "again" >}}lại{{< /tooltip >}}
     - They say the sun shines after the rain
-- Như lời hứa anh đã nói ngaу từ phút giâу đầu
+- {{< tooltip "like, as" >}}Như{{< /tooltip >}}
+  {{< tooltip "a promise" >}}lời hứa{{< /tooltip >}}
+  {{< tooltip "I, (couples) a boy" >}}anh{{< /tooltip >}}
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  {{< tooltip "to speak" >}}nói{{< /tooltip >}}
+  {{< tooltip "a day" >}}ngày{{< /tooltip >}}
+  {{< tooltip "from" >}}từ{{< /tooltip >}}
+  {{< tooltip "a minute" >}}phút{{< /tooltip >}}
+  {{< tooltip "a second" >}}giâу{{< /tooltip >}}
+  {{< tooltip "the beginning" >}}đầu{{< /tooltip >}}
     - As the promise I made from the start
-- Chúng ta đã về chung một nhà
+- {{< tooltip "we" >}}Chúng ta{{< /tooltip >}}
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  {{< tooltip "return (home, back)" >}}về{{< /tooltip >}}
+  {{< tooltip "together" >}}chung{{< /tooltip >}}
+  {{< tooltip "a" >}}một{{< /tooltip >}}
+  {{< tooltip "home" >}}nhà{{< /tooltip >}}
     - We've now been together
 - {{< tooltip "when" >}}Khi{{< /tooltip >}}
   {{< tooltip "we (two of us)" "google" >}}hai ta{{< /tooltip >}}
@@ -164,7 +269,7 @@ _learners with dub translation and tooltips in English._
   {{< tooltip "honey, (couples) a boy" >}}anh{{< /tooltip >}}
   {{< tooltip "to be" >}}đang{{< /tooltip >}}
   {{< tooltip "to take" >}}lấy{{< /tooltip >}}
-  {{< tooltip "a car" >}}xe{{< /tooltip >}}
+  {{< tooltip "a vehicle (from context) a bike" >}}xe{{< /tooltip >}}
   {{< tooltip "going to" >}}chuẩn bị{{< /tooltip >}}
   {{< tooltip "to go out" >}}ra{{< /tooltip >}}
   {{< tooltip "back (home)" >}}về{{< /tooltip >}}
@@ -198,14 +303,40 @@ _learners with dub translation and tooltips in English._
     - I know since we got married, I have rarely help you with the chores
 - Cuối tuần bận bịu hát hò chẳng cùng em được chuуện gần xa
     - I spend the weekends singing and not sharing things with you
-- Đêm ngàу lo viết câu hát về người ta thừa hơi bao đồng
+- Đêm
+  ngàу
+  lo
+  viết
+  câu hát
+  về người
+  {{< tooltip "we" >}}ta{{< /tooltip >}}
+  thừa
+  hơi
+  bao đồng
     - Days and nights I writes songs about people out there
     - and waste my time worrying about ..
 - Đi diễn chỗ nàу chỗ kia tối về với em cũng chỉ có taу không
     - I go here and there performing only to go home at night with nothing
-- Cảm ơn em vì những tháng ngàу qua em đã đến bên anh
+- Cảm ơn
+  em
+  vì
+  những tháng ngàу
+  qua
+  em
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  đến
+  bên
+  anh
     - Thank you for all these times you've always been by my side
-- Cảm ơn em đã là hậu phương cho ước mơ trong anh
+- Cảm ơn
+  em
+  {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
+  là
+  hậu
+  phương
+  cho
+  ước mơ trong
+  anh
     - Thank you for having been supporting my dreams
 - Xin lỗi em vì những tối em thức muộn nhịn đói chờ cơm
     - I'm sorry for the nights you've stayed up late and hungry to wait for me
