@@ -41,7 +41,7 @@ The meaning of **hay** depends on the context.
       {{< tooltip "Vietnamese girl's name" >}}Duyên{{< /tooltip >}}
       {{< tooltip "let" >}}cho{{< /tooltip >}}
       {{< tooltip "to know" >}}hay{{< /tooltip >}}.
-        - "Duyên went to eat already" said her Mother.
+        - "Duyên has already gone to eat" said her Mother.
 1. Exclaims a surprise.
     - {{< tooltip "Oh" >}}Ơ{{< /tooltip >}},
       {{< tooltip "Oh" >}}hay{{< /tooltip >}}
