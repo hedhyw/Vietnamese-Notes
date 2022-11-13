@@ -1,6 +1,7 @@
 ---
 title: "What does \"hay\" mean in Vietnamese"
 date: 2022-11-12T00:00:00+00:00
+categories: [grammar, a1]
 ---
 
 ![illustration by undraw](/images/undraw_Well_done_re_3hpo.png)

@@ -41,9 +41,15 @@
 {{- $.Page.Scratch.Add "tooltipcount" 1 -}}
 
 <div class="tooltip">
+    {{if eq (.Get 1) "google" }}
+    <a href="https://translate.google.com/?sl=vi&tl=en&text={{- trim (.Inner | safeHTML) "\n\t " -}}" target="_blank">
+        {{- .Inner | safeHTML -}}
+    </a>
+    {{else}}
     <a href="https://en.wiktionary.org/wiki/{{- trim (.Inner | safeHTML | lower) "\n\t " -}}#Vietnamese" target="_blank">
         {{- .Inner | safeHTML -}}
     </a>
+    {{end}}
     <span class="tooltiptext">
         {{- .Get 0 | safeHTML }}
     </span>
