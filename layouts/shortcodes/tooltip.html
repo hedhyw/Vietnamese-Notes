@@ -45,6 +45,10 @@
     <a href="https://translate.google.com/?sl=vi&tl=en&text={{- trim (.Inner | safeHTML) "\n\t " -}}" target="_blank">
         {{- .Inner | safeHTML -}}
     </a>
+    {{else if eq (.Get 1) "wiktionary_case" }}
+    <a href="https://en.wiktionary.org/wiki/{{- trim (.Inner | safeHTML) "\n\t " -}}#Vietnamese" target="_blank">
+        {{- .Inner | safeHTML -}}
+    </a>
     {{else}}
     <a href="https://en.wiktionary.org/wiki/{{- trim (.Inner | safeHTML | lower) "\n\t " -}}#Vietnamese" target="_blank">
         {{- .Inner | safeHTML -}}
