@@ -402,9 +402,9 @@ In the context of love couples, this means: "I", "You" or "Honey".
   {{< tooltip "superfluous" >}}thừa{{< /tooltip >}}
   {{< tooltip "a bit" >}}hơi{{< /tooltip >}}
   {{< tooltip "how much" >}}bao{{< /tooltip >}}
-  {{< tooltip "money (dong, currency of Vietnam)" >}}đồng{{< /tooltip >}}
+  {{< tooltip "generious about others" "google" >}}bao đồng{{< /tooltip >}}
     - Days and nights I write songs about people out there
-    - And waste my time worrying about money
+    - And waste my time worrying about them
 - {{< tooltip "go" >}}Đi{{< /tooltip >}}
   {{< tooltip "to perform, to act" >}}diễn{{< /tooltip >}}
   {{< tooltip "place" >}}chỗ{{< /tooltip >}}
