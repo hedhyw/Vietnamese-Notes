@@ -425,7 +425,7 @@ In the context of love couples, this means: "I", "You" or "Honey".
   {{< tooltip "you (a woman), because a man speaks" >}}em{{< /tooltip >}}
   {{< tooltip "because" >}}vì{{< /tooltip >}}
   {{< tooltip "indicates plural" >}}những{{< /tooltip >}}
-  {{< tooltip "dates" >}}tháng ngày{{< /tooltip >}}
+  {{< tooltip "long time" >}}tháng ngày{{< /tooltip >}}
   {{< tooltip "last" >}}qua{{< /tooltip >}}
   {{< tooltip "you (a woman), because a man speaks" >}}em{{< /tooltip >}}
   {{< tooltip "indicates a past tense" >}}đã{{< /tooltip >}}
