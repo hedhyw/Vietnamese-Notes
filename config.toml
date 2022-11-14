@@ -8,3 +8,6 @@ title = 'Vietnamese jottings'
   copyright = "github.com/hedhyw/Vietnamese-Notes"
   dark = "auto"
   highlight = true
+
+[taxonomies]
+   category = "categories"

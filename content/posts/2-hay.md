@@ -1,6 +1,7 @@
 ---
 title: "What does \"hay\" mean in Vietnamese"
 date: 2022-11-12T00:00:00+00:00
+categories: [grammar, a1]
 ---
 
 ![illustration by undraw](/images/undraw_Well_done_re_3hpo.png)
@@ -33,16 +34,22 @@ The meaning of **hay** depends on the context.
       {{< tooltip "well" >}}hay{{< /tooltip >}}.
         - Who draws habitually will draw well.
 1. To know; to get to know; to learn:
-    - "{{< tooltip "Vietnamese girl's name" >}}Duyên{{< /tooltip >}}
+    - "{{< tooltip
+           "Vietnamese girl's name"
+           "wiktionary_preserve_case"
+      >}}Duyên{{< /tooltip >}}
       {{< tooltip "go" >}}đi{{< /tooltip >}}
       {{< tooltip "eat" >}}ăn{{< /tooltip >}}
       {{< tooltip "already" >}}rồi{{< /tooltip >}}"
       {{< tooltip "mother" >}}Mẹ{{< /tooltip >}}
-      {{< tooltip "Vietnamese girl's name" >}}Duyên{{< /tooltip >}}
+      {{< tooltip
+          "Vietnamese girl's name"
+          "wiktionary_preserve_case"
+      >}}Duyên{{< /tooltip >}}
       {{< tooltip "let" >}}cho{{< /tooltip >}}
       {{< tooltip "to know" >}}hay{{< /tooltip >}}.
         - "Duyên has already gone to eat" said her Mother.
-1. Exclaims a surprise.
+2. Exclaims a surprise.
     - {{< tooltip "Oh" >}}Ơ{{< /tooltip >}},
       {{< tooltip "Oh" >}}hay{{< /tooltip >}}
       {{< tooltip "used to create a tag question" >}}nhỉ{{< /tooltip >}}.
