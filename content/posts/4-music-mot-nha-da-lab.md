@@ -1,6 +1,6 @@
 ---
 title: "Lyrics of the song \"Da LAB - Một Nhà\" for learners"
-date: 2022-11-13T00:00:00+00:00
+date: 2022-11-14T00:00:00+00:00
 categories: [music, a2]
 ---
 
@@ -19,8 +19,8 @@ _learners with dub translation and tooltips in English._
 >}}
 
 {{< rule >}}
-**Anh-Em** is a common method of addressing between romantic couples.
-In the context of a love couple, this means: "I", "You" or "Honey".
+**Anh-Em** is a common way of addressing between couples.
+In the context of love couples, this means: "I", "You" or "Honey".
 
 - **Em** is "**I**" for a female.
 - **Em** is "**You**" for a female if a man speaks.
@@ -367,7 +367,7 @@ In the context of a love couple, this means: "I", "You" or "Honey".
   {{< tooltip "indicates a present tense" >}}đang{{< /tooltip >}}
   {{< tooltip "to cherish" >}}ấp ủ{{< /tooltip >}}
     - The longnurtured rap news and mixtape are still in my mind
-- {{< tooltip "I (a man), because the man speaks" >}}anh{{< /tooltip >}}
+- {{< tooltip "I (a man), because the man speaks" >}}Anh{{< /tooltip >}}
   {{< tooltip "know" >}}biết{{< /tooltip >}}
   {{< tooltip "since" >}}từ khi{{< /tooltip >}}
   {{< tooltip "to marry, to take" >}}lấy{{< /tooltip >}}
@@ -456,7 +456,7 @@ In the context of a love couple, this means: "I", "You" or "Honey".
   {{< tooltip "to wait" >}}chờ{{< /tooltip >}}
   {{< tooltip "a rice meal (\"to eat\" in this context)" >}}cơm{{< /tooltip >}}
     - I'm sorry for the nights you've stayed up late and hungry to wait for me
-- {{< tooltip "I (a man), because the man speaks" >}}anh{{< /tooltip >}}
+- {{< tooltip "I (a man), because the man speaks" >}}Anh{{< /tooltip >}}
   {{< tooltip "very" >}}rất{{< /tooltip >}}
   {{< tooltip "to love" >}}yêu{{< /tooltip >}}
   {{< tooltip "you (a woman), because a man speaks" >}}em{{< /tooltip >}}
@@ -524,7 +524,7 @@ In the context of a love couple, this means: "I", "You" or "Honey".
     - We live together til the end
 - {{< tooltip "when" >}}Khi{{< /tooltip >}}
   {{< tooltip "we (two of us)" "google" >}}hai ta{{< /tooltip >}}
-  {{< tooltip "return (home, back)" >}}về{{< /tooltip >}}
+  {{< tooltip "together" >}}chung{{< /tooltip >}}
   {{< tooltip "a" >}}một{{< /tooltip >}}
   {{< tooltip "home" >}}nhà{{< /tooltip >}}
     - When we share a home

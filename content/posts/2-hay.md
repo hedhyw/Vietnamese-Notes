@@ -36,7 +36,7 @@ The meaning of **hay** depends on the context.
 1. To know; to get to know; to learn:
     - "{{< tooltip
            "Vietnamese girl's name"
-           "wiktionary_preserve_case`
+           "wiktionary_preserve_case"
       >}}Duyên{{< /tooltip >}}
       {{< tooltip "go" >}}đi{{< /tooltip >}}
       {{< tooltip "eat" >}}ăn{{< /tooltip >}}
