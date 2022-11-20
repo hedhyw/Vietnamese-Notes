@@ -1,6 +1,6 @@
 # Vietnamese Jottings
 
-Short and simple Vietnamese language 🇻🇳 grammar notes with examples
+Short and simple South Vietnamese language 🇻🇳 grammar notes with examples
 for beginner language learners.
 
 <img width=200 src=static/images/undraw_Mindfulness_re_5cuv.png>

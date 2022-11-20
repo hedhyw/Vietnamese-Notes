@@ -35,7 +35,7 @@ The meaning of **hay** depends on the context.
         - Who draws habitually will draw well.
 1. To know; to get to know; to learn:
     - "{{< tooltip
-           "Vietnamese girl's name"
+           "a female given name"
            "wiktionary_preserve_case"
       >}}Duyên{{< /tooltip >}}
       {{< tooltip "go" >}}đi{{< /tooltip >}}
@@ -43,7 +43,7 @@ The meaning of **hay** depends on the context.
       {{< tooltip "already" >}}rồi{{< /tooltip >}}"
       {{< tooltip "mother" >}}Mẹ{{< /tooltip >}}
       {{< tooltip
-          "Vietnamese girl's name"
+          "a female given name"
           "wiktionary_preserve_case"
       >}}Duyên{{< /tooltip >}}
       {{< tooltip "let" >}}cho{{< /tooltip >}}
