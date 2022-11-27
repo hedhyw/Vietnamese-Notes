@@ -1,11 +1,8 @@
 name: check-pr-semantic
 
 on:
-  pull_request_target:
-    types:
-      - opened
-      - edited
-      - synchronize
+  pull_request:
+    types: [opened, synchronize, reopened]
 
 jobs:
   main:
