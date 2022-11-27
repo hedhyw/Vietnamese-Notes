@@ -23,7 +23,7 @@ categories: [a1]
       {{< tooltip "how many" >}}bao nhiêu{{< /tooltip >}}
       {{< tooltip "rooms" >}}phòng{{< /tooltip >}}?
         - How many rooms are in the castle?
-2. If we ask for the age of a younger person, then we should use **mấy**:
+1. If we ask for the age of a younger person, then we should use **mấy**:
     - {{< tooltip `
         you, someone who's presumably of the same age
         as my children
@@ -31,7 +31,7 @@ categories: [a1]
       {{< tooltip "how many" >}}mấy{{< /tooltip >}}
       {{< tooltip "age" >}}tuổi{{< /tooltip >}}
       {{< tooltip "already" >}}rồi{{< /tooltip >}}?
-3. If we ask for the age of an older person, then we must
+1. If we ask for the age of an older person, then we must
    use **bao nhiêu** to show respect:
     - {{< tooltip `
         you, someone who's presumably slightly
@@ -40,3 +40,9 @@ categories: [a1]
       {{< tooltip "how many" >}}bao nhiêu{{< /tooltip >}}
       {{< tooltip "age" >}}tuổi{{< /tooltip >}}
       {{< tooltip "already" >}}rồi{{< /tooltip >}}?
+1. In informal conversation, **bao** can be omitted in **bao nhiêu**:
+    - {{< tooltip "castle" >}}Lâu đài{{< /tooltip >}}
+      {{< tooltip "have" >}}có{{< /tooltip >}}
+      {{< tooltip "how many" >}}nhiêu{{< /tooltip >}}
+      {{< tooltip "rooms" >}}phòng{{< /tooltip >}}?
+        - How many rooms are in the castle?
