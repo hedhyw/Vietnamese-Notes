@@ -45,7 +45,7 @@ categories: [a1]
            reference to the second female person who's
            (presumably) slightly older than speaker
        ` >}}Chị{{< /tooltip >}}
-       {{< tooltip "soon" >}}sớm{{< /tooltip >}}
+       {{< tooltip "soon" >}}sắp{{< /tooltip >}}
        {{< tooltip "became" >}}trở thành{{< /tooltip >}}
        {{< tooltip "mother" >}}mẹ{{< /tooltip >}}.
         - She soon became a mother.
