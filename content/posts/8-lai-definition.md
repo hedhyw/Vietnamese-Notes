@@ -63,7 +63,7 @@ this word can confuse learners due to the large range of different meanings.
       {{< tooltip "as" >}}như{{< /tooltip >}}
       {{< tooltip "father" >}}bố{{< /tooltip >}}.
         - This kid must also be as smart as his dad.
-1. Expressing an objection:
+1. Expressing an objection or negative meaning:
     - {{< tooltip "why" >}}Sao{{< /tooltip >}}
       {{< tooltip "(adds negative meaning)" >}}lại{{< /tooltip >}}
       {{< tooltip "hit" >}}đánh{{< /tooltip >}}
@@ -75,8 +75,8 @@ this word can confuse learners due to the large range of different meanings.
       {{< tooltip "one" >}}một{{< /tooltip >}}
       {{< tooltip "opportunity" >}}cơ hội{{< /tooltip >}},
       {{< tooltip "but" >}}nhưng{{< /tooltip >}}
-      {{< tooltip "(adds negative meaning)" >}}lại{{< /tooltip >}}
       {{< tooltip "he" >}}anh ấy{{< /tooltip >}}
+      {{< tooltip "(adds negative meaning)" >}}lại{{< /tooltip >}}
       {{< tooltip "not" >}}không{{< /tooltip >}}
       {{< tooltip "use" >}}sử dụng{{< /tooltip >}}
       {{< tooltip "it" >}}nó{{< /tooltip >}}.
