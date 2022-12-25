@@ -26,14 +26,14 @@ categories: [a2]
       {{< tooltip "(emphasize affirmation)" >}}chứ{{< /tooltip >}}.
         - Can I get a test bicycle ride?
         - Yes (of course).
-2. It is used in the questions if we think that answer is "yes",
-   but still want to confirm.
+2. It is used in the questions as an alternative to "không".
     - {{< tooltip "you" >}}Bạn{{< /tooltip >}}
       {{< tooltip "hang out" >}}đi chơi{{< /tooltip >}}
       {{< tooltip "with" >}}cùng{{< /tooltip >}}
       {{< tooltip "me" >}}mình{{< /tooltip >}}
       {{< tooltip "(light uncertainty)" >}}chứ{{< /tooltip >}}?
         - You will come with me, right?
+    > See also ["How to ask simple questions in Vietnamese"](/posts/3-simple-question).
 3. It emphasizes that what comes before this particle is very likely,
    and what comes after it is very not.
     - {{< tooltip "he" >}}Anh ấy{{< /tooltip >}}
