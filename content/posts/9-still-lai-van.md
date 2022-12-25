@@ -11,7 +11,7 @@ There are different ways of saying "still":
 
 - **vẫn** (still, something unchanged);
 - **còn** (to remain, to be left);
-- **vẫn còn** (still, more emphasis).
+- **vẫn còn** (still remain, more emphasis).
 
 {{< /rule >}}
 
@@ -52,9 +52,9 @@ There are different ways of saying "still":
       {{< tooltip "to complement" >}}khen{{< /tooltip >}}
       {{< tooltip "more" >}}nữa{{< /tooltip >}}.
         - She even gets complemented.
-- **Vẫn còn** just adds more emphasis to **còn**:
+- It is possible to combine **vẫn** and **còn** to lengthen the sentence:
     - {{< tooltip "I" >}}Tôi{{< /tooltip >}}
-      {{< tooltip "still" >}}vẫn còn{{< /tooltip >}}
-      {{< tooltip "(have) money" >}}tiền{{< /tooltip >}}.
+      {{< tooltip "still (have)" >}}vẫn còn{{< /tooltip >}}
+      {{< tooltip "money" >}}tiền{{< /tooltip >}}.
         - I still have money.
 - **Vẫn còn** could not be combined with **chỉ**!
