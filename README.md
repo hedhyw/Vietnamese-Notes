@@ -21,7 +21,26 @@ The site is: [vietnamese.ocmoxa.com](https://vietnamese.ocmoxa.com).
 
   `task prepare`.
 
+### Running
+
+1. `task run`
+2. Open: [localhost:1313](http://localhost:1313/)
+
 ### Content
 
 - The content is located in [content/posts](content/posts).
 - Awesome resources are placed in [content/posts/0-resources.md](content/posts/0-resources.md).
+
+### Categories
+
+| category   | description                          |
+| ---------- | ------------------------------------ |
+| expression | a grammar structure or expression    |
+| grammar    | a grammar rule                       |
+| word       | a explanation of a word              |
+| music      | a translation of a song              |
+| a1, a2     | check [this](#langugage-level-guide) |
+
+### Langugage level guide
+
+The language level guide is available [here](https://iml.uq.edu.au/files/26605/An%20IML%20self-assessment%20guide%20to%20language%20levels.pdf).

@@ -1,7 +1,7 @@
 ---
 title: "What does \"hay\" mean in Vietnamese"
 date: 2022-11-12T00:00:00+00:00
-categories: [grammar, a1]
+categories: [a1, word]
 ---
 
 ![illustration by undraw](/images/undraw_Well_done_re_3hpo.png)
@@ -16,7 +16,7 @@ The meaning of **hay** depends on the context.
       {{< tooltip "this" >}}này{{< /tooltip >}}
       {{< tooltip "interesting" >}}hay{{< /tooltip >}}.
         - This book is interesting.
-1. Conjunction "or":
+2. Conjunction "or":
     - {{< tooltip "choose" >}}Chọn{{< /tooltip >}}
       {{< tooltip "this" >}}cái này{{< /tooltip >}},
       {{< tooltip "or" >}}hay{{< /tooltip >}}
@@ -24,7 +24,7 @@ The meaning of **hay** depends on the context.
       {{< tooltip "that" >}}cái kia{{< /tooltip >}}.
         - Choose this one, or choose that one.
     - See also [hoặc](/posts/1-hay-hoac).
-1. "Hay" with a verb to indicate a habit of (doing something).
+3. "Hay" with a verb to indicate a habit of (doing something).
     - {{< tooltip "who" >}}Ai{{< /tooltip >}}
       {{< tooltip "has a habbit" >}}hay{{< /tooltip >}}
       {{< tooltip "draw" >}}vẽ{{< /tooltip >}}
@@ -33,7 +33,7 @@ The meaning of **hay** depends on the context.
       {{< tooltip "draw" >}}vẽ{{< /tooltip >}}
       {{< tooltip "well" >}}hay{{< /tooltip >}}.
         - Who draws habitually will draw well.
-1. To know; to get to know; to learn:
+4. To know; to get to know; to learn:
     - "{{< tooltip
            "a female given name"
            "wiktionary_preserve_case"
@@ -49,7 +49,7 @@ The meaning of **hay** depends on the context.
       {{< tooltip "let" >}}cho{{< /tooltip >}}
       {{< tooltip "to know" >}}hay{{< /tooltip >}}.
         - "Duyên has already gone to eat" said her Mother.
-2. Exclaims a surprise.
+5. Exclaims a surprise.
     - {{< tooltip "Oh" >}}Ơ{{< /tooltip >}},
       {{< tooltip "Oh" >}}hay{{< /tooltip >}}
       {{< tooltip "used to create a tag question" >}}nhỉ{{< /tooltip >}}.

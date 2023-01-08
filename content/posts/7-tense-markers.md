@@ -1,7 +1,7 @@
 ---
 title: "Basic Vietnamese tenses: past, present, future"
 date: 2022-12-03T00:00:00+00:00
-categories: [a1]
+categories: [a1,grammar]
 ---
 
 ![illustration by undraw](/images/undraw_Imagination_re_i0xi.png)

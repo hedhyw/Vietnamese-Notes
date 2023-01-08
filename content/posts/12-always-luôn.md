@@ -1,7 +1,7 @@
 ---
 title: "What does \"luôn\" mean in Vietnamese?"
 date: 2022-12-31T00:00:00+00:00
-categories: [a1]
+categories: [a1,word]
 ---
 
 ![illustration by undraw](/images/undraw_real_time_collaboration_c62i.png)

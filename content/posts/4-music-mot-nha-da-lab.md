@@ -1,7 +1,7 @@
 ---
 title: "Lyrics of the song \"Da LAB - Một Nhà\" for learners"
 date: 2022-11-14T00:00:00+00:00
-categories: [music, a2]
+categories: [music,a2]
 ---
 
 {{< rule >}}

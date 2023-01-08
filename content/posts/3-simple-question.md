@@ -1,7 +1,7 @@
 ---
 title: "How to ask simple questions in Vietnamese"
 date: 2022-11-13T00:00:00+00:00
-categories: [grammar, a1]
+categories: [grammar,a1]
 ---
 
 ![illustration by undraw](/images/undraw_Faq_re_31cw.png)
