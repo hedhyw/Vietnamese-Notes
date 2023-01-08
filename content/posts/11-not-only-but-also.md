@@ -1,7 +1,7 @@
 ---
 title: "\"Not only ... but also\" in Vietnamese"
 date: 2022-12-25T00:00:00+00:00
-categories: [a2]
+categories: [a2,expression]
 ---
 
 ![illustration by undraw](/images/undraw_Surveillance_re_8tkl.png)

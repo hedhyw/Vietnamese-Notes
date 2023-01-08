@@ -1,7 +1,7 @@
 ---
 title: "How to ask \"when\" in South Vietnamese"
 date: 2022-11-20T00:00:00+00:00
-categories: [a1]
+categories: [a1,grammar]
 ---
 
 ![illustration by undraw](/images/undraw_season_change_f99v.png)
