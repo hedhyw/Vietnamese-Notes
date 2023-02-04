@@ -3,7 +3,7 @@
 Short and simple South Vietnamese language 🇻🇳 grammar notes with examples
 for beginner language learners.
 
-<img width=200 src=static/images/undraw_Mindfulness_re_5cuv.png>
+<img width=200 src=static/images/undraw/undraw_Mindfulness_re_5cuv.png>
 
 The site is: [vietnamese.ocmoxa.com](https://vietnamese.ocmoxa.com).
 
@@ -44,3 +44,8 @@ The site is: [vietnamese.ocmoxa.com](https://vietnamese.ocmoxa.com).
 ### Langugage level guide
 
 The language level guide is available [here](https://iml.uq.edu.au/files/26605/An%20IML%20self-assessment%20guide%20to%20language%20levels.pdf).
+
+## License
+
+1. [MIT License](./LICENSE).
+2. [Undraw images license](./static/images/undraw/LICENSE) or the full text on [undraw.co](https://undraw.co/license).

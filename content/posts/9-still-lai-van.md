@@ -4,7 +4,7 @@ date: 2022-12-18T00:00:00+00:00
 categories: [a1,word]
 ---
 
-![illustration by undraw](/images/undraw_Percentages_re_a1ao.png)
+![illustration by undraw](/images/undraw/undraw_Percentages_re_a1ao.png)
 
 {{< rule >}}
 There are different ways of saying "still":

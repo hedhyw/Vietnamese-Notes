@@ -4,7 +4,7 @@ date: 2022-11-12T00:00:00+00:00
 categories: [a1, word]
 ---
 
-![illustration by undraw](/images/undraw_Well_done_re_3hpo.png)
+![illustration by undraw](/images/undraw/undraw_Well_done_re_3hpo.png)
 
 {{< rule >}}
 The meaning of **hay** depends on the context.

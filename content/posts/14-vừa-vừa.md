@@ -4,7 +4,7 @@ date: 2023-01-14T00:00:00+00:00
 categories: [a2,expression]
 ---
 
-![illustration by undraw](/images/undraw_In_love_7j8w.png)
+![illustration by undraw](/images/undraw/undraw_In_love_7j8w.png)
 
 {{< rule >}}
 **Vừa ... vừa ...** indicates multiple things that simultaneously

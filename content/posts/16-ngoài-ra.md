@@ -4,7 +4,7 @@ date: 2023-01-29T00:00:00+00:00
 categories: [a2,expression]
 ---
 
-![illustration by undraw](/images/undraw_add_document_re_mbjx.png)
+![illustration by undraw](/images/undraw/undraw_add_document_re_mbjx.png)
 
 {{< rule >}}
 **Ngoài ra** expresses addition to what is mainly referred to.

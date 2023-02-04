@@ -4,7 +4,7 @@ date: 2022-11-11T00:00:00+00:00
 categories: [a1, word]
 ---
 
-![illustration by undraw](/images/undraw_Elements_re_25t9.png)
+![illustration by undraw](/images/undraw/undraw_Elements_re_25t9.png)
 
 {{< rule >}}
 **Hay** and **hoặc** both mean "or".

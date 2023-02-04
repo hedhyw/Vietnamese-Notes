@@ -4,7 +4,7 @@ date: 2022-12-31T00:00:00+00:00
 categories: [a1,word]
 ---
 
-![illustration by undraw](/images/undraw_real_time_collaboration_c62i.png)
+![illustration by undraw](/images/undraw/undraw_real_time_collaboration_c62i.png)
 
 {{< rule >}}
 "Luôn" means:

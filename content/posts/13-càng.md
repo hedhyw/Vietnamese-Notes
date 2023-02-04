@@ -4,7 +4,7 @@ date: 2023-01-08T00:00:00+00:00
 categories: [a2,expression]
 ---
 
-![illustration by undraw](/images/undraw_more_music_w70e.png)
+![illustration by undraw](/images/undraw/undraw_more_music_w70e.png)
 
 {{< rule >}}
 The construction "càng ... càng"  establishes a parallel
