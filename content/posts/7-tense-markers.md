@@ -4,7 +4,7 @@ date: 2022-12-03T00:00:00+00:00
 categories: [a1,grammar]
 ---
 
-![illustration by undraw](/images/undraw_Imagination_re_i0xi.png)
+![illustration by undraw](/images/undraw/undraw_Imagination_re_i0xi.png)
 
 1. **Đã** indicates past actions.
     - {{< tooltip "Name of the person" >}}Hà Lan{{< /tooltip >}}

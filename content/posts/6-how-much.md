@@ -4,7 +4,7 @@ date: 2022-11-26T00:00:00+00:00
 categories: [a1,grammar]
 ---
 
-![illustration by undraw](/images/undraw_Party_re_nmwj.png)
+![illustration by undraw](/images/undraw/undraw_Party_re_nmwj.png)
 
 {{< rule >}}
 **Bao nhiêu** and **mấy** both mean "how much" / "how many".

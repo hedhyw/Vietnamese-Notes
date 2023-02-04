@@ -4,7 +4,7 @@ date: 2022-11-13T00:00:00+00:00
 categories: [grammar,a1]
 ---
 
-![illustration by undraw](/images/undraw_Faq_re_31cw.png)
+![illustration by undraw](/images/undraw/undraw_Faq_re_31cw.png)
 
 {{< rule >}}
 Simple yes-no question: **verb + không?**

@@ -4,7 +4,7 @@ date: 2022-12-24T00:00:00+00:00
 categories: [a2,word]
 ---
 
-![illustration by undraw](/images/undraw_Business_chat_re_gg4h.png)
+![illustration by undraw](/images/undraw/undraw_Business_chat_re_gg4h.png)
 
 {{< rule >}}
 **Chứ** is a particle that is used to emphasize certainty.

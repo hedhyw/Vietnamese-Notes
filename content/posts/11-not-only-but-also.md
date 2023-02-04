@@ -4,7 +4,7 @@ date: 2022-12-25T00:00:00+00:00
 categories: [a2,expression]
 ---
 
-![illustration by undraw](/images/undraw_Surveillance_re_8tkl.png)
+![illustration by undraw](/images/undraw/undraw_Surveillance_re_8tkl.png)
 
 {{< rule >}}
 "Not only ... but also" is translated as:

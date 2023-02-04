@@ -4,7 +4,7 @@ date: 2023-02-04T00:00:00+00:00
 categories: [a2,expression]
 ---
 
-![illustration by undraw](/images/undraw_flowers_vx06.png)
+![illustration by undraw](/images/undraw/undraw_flowers_vx06.png)
 
 {{< rule >}}
 **Khác** is an adjective: different, other.

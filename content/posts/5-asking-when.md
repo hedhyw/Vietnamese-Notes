@@ -4,7 +4,7 @@ date: 2022-11-20T00:00:00+00:00
 categories: [a1,grammar]
 ---
 
-![illustration by undraw](/images/undraw_season_change_f99v.png)
+![illustration by undraw](/images/undraw/undraw_season_change_f99v.png)
 
 {{< rule >}}
 There are different ways to ask "when":

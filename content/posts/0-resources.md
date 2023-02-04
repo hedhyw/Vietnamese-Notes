@@ -4,7 +4,7 @@ date: 2022-11-10T00:00:00+00:00
 categories: [misc]
 ---
 
-![illustration by undraw](/images/undraw_Experience_design_re_ca7l.png)
+![illustration by undraw](/images/undraw/undraw_Experience_design_re_ca7l.png)
 
 # Applications
 

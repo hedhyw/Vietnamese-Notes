@@ -4,7 +4,7 @@ date: 2022-12-10T00:00:00+00:00
 categories: [a2,word]
 ---
 
-![illustration by undraw](/images/undraw_Synchronize_re_4irq.png)
+![illustration by undraw](/images/undraw/undraw_Synchronize_re_4irq.png)
 
 {{< rule >}}
 **Lại** usually means "again", but not everything is so simple,
