@@ -15,15 +15,15 @@ They both can be used in the same sentence for emphasizing.
 
 1. **Có thể** and **được** express an ability to do something.
     - {{< tooltip "a female given name from Chinese" >}}Duyên{{< /tooltip >}}
-      {{< tooltip "speak" >}}nói{{< /tooltip >}}
-      {{< tooltip "Spanish" >}}tiếng Tây Ban Nha{{< /tooltip >}}
-      {{< tooltip "can" >}}được{{< /tooltip >}}
-      {{< tooltip "(indicates a question)" >}}không{{< /tooltip >}}?
-        - Is Duyên able to speak Spanish?
-    - {{< tooltip "a female given name from Chinese" >}}Duyên{{< /tooltip >}}
       {{< tooltip "can" >}}có thể{{< /tooltip >}}
       {{< tooltip "speak" >}}nói{{< /tooltip >}}
       {{< tooltip "Spanish" >}}tiếng Tây Ban Nha{{< /tooltip >}}
+      {{< tooltip "(indicates a question)" >}}không{{< /tooltip >}}?
+        - Is Duyên able to speak Spanish?
+    - {{< tooltip "a female given name from Chinese" >}}Duyên{{< /tooltip >}}
+      {{< tooltip "speak" >}}nói{{< /tooltip >}}
+      {{< tooltip "Spanish" >}}tiếng Tây Ban Nha{{< /tooltip >}}
+      {{< tooltip "can" >}}được{{< /tooltip >}}
       {{< tooltip "(indicates a question)" >}}không{{< /tooltip >}}?
         - Can Duyên speak Spanish?
     - {{< tooltip "a female given name from Chinese" >}}Duyên{{< /tooltip >}}
