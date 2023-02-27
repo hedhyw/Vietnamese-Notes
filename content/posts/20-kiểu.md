@@ -18,7 +18,7 @@ categories: [a2,word]
     {{< tooltip "haircut" "google" >}}kiểu tóc{{< /tooltip >}}
     {{< tooltip "new" >}}mới{{< /tooltip >}}.
     - Duyên has a new haircut.
-- {{< tooltip "Children" >}}Con{{< /tooltip >}}
+- {{< tooltip "children" >}}Con{{< /tooltip >}}
   {{< tooltip "house" >}}nhà{{< /tooltip >}}
   {{< tooltip "feudal" >}}phong kiến{{< /tooltip >}}
   {{< tooltip "then" >}}thì{{< /tooltip >}}
@@ -31,8 +31,8 @@ categories: [a2,word]
     - By this manner.
 - {{< tooltip "to dress" >}}Ăn mặc{{< /tooltip >}}
   {{< tooltip "style" >}}kiểu{{< /tooltip >}}
-  {{< tooltip "Euprope" >}}Âu{{< /tooltip >}}
   {{< tooltip "Western" >}}Tây{{< /tooltip >}}.
+  {{< tooltip "Europe" >}}Âu{{< /tooltip >}}
     - To dress in West-Europe style.
 - {{< tooltip "glasses" >}}Kiếng{{< /tooltip >}}
   {{< tooltip "these" >}}này{{< /tooltip >}}
