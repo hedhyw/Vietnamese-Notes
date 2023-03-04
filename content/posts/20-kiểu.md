@@ -31,8 +31,8 @@ categories: [a2,word]
     - By this manner.
 - {{< tooltip "to dress" >}}Ăn mặc{{< /tooltip >}}
   {{< tooltip "style" >}}kiểu{{< /tooltip >}}
-  {{< tooltip "Western" >}}Tây{{< /tooltip >}}.
-  {{< tooltip "Europe" >}}Âu{{< /tooltip >}}
+  {{< tooltip "Western" >}}Tây{{< /tooltip >}}
+  {{< tooltip "Europe" >}}Âu{{< /tooltip >}}.
     - To dress in West-Europe style.
 - {{< tooltip "glasses" >}}Kiếng{{< /tooltip >}}
   {{< tooltip "these" >}}này{{< /tooltip >}}
