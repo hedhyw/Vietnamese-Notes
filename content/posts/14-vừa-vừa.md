@@ -40,3 +40,4 @@ are true or happen/are happening.
       {{< tooltip "is" >}}là{{< /tooltip >}}
       {{< tooltip "singer" >}}ca sĩ{{< /tooltip >}}.
         - Thuỵ is both an actress and a singer.
+4. See also: [vietnamese word "vừa"](/posts/23-vừa).
