@@ -7,7 +7,7 @@ categories: [a2,word]
 ![illustration by undraw](/images/undraw/undraw_Time_management_re_tk5w.png)
 
 {{< rule >}}
-"Always" in Vietnamese can be translated as:
+"Always" can be translated as:
 
 - luôn luôn
 - luôn
