@@ -18,7 +18,7 @@ categories: [a2,word]
       {{< tooltip "only" >}}chỉ{{< /tooltip >}}
       {{< tooltip "want" >}}muốn{{< /tooltip >}}
       {{< tooltip "drink" >}}uống{{< /tooltip >}}
-      {{< tooltip "coffee" >}}cá phê{{< /tooltip >}}
+      {{< tooltip "coffee" >}}cà phê{{< /tooltip >}}
       {{< tooltip "nothing more" >}}thôi{{< /tooltip >}}.
         - I just want to drink coffee.
 - Alright, well, that's all, merely, only, just.
