@@ -33,7 +33,7 @@ categories: [a2,word]
   {{< tooltip "rarely" >}}hiếm khi{{< /tooltip >}}
   {{< tooltip "which" >}}nào{{< /tooltip >}}
   {{< tooltip "to pass over" >}}vượt{{< /tooltip >}}
-  {{< tooltip "quá" >}}to exceed{{< /tooltip >}}
+  {{< tooltip "to exceed" >}}quá{{< /tooltip >}}
   {{< tooltip "five" >}}5{{< /tooltip >}}
   {{< tooltip "years" >}}năm{{< /tooltip >}}.
     - Which rarely exceeds five years.
