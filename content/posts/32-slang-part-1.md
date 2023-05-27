@@ -29,3 +29,5 @@ categories: [a2,word]
       {{< tooltip "(the part of the question)" >}}không{{< /tooltip >}}?
       {{< tooltip "I have no idea!" >}}Biết chết liền{{< /tooltip >}}!
         - Is the Earth a round sphere? I have no idea!
+- See also:
+    - [part 2](/posts/33-slang-part-2/).
