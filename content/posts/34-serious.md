@@ -1,5 +1,5 @@
 ---
-title: "Difference between \"nghiêm trong\" and \"nghiêm túc\" (serious)"
+title: "Difference between \"nghiêm trọng\" and \"nghiêm túc\" (serious)"
 date: 2023-06-03T00:00:00+00:00
 categories: [a2,word]
 ---
@@ -7,9 +7,9 @@ categories: [a2,word]
 ![illustration by undraw](/images/undraw/undraw_career_progress_ivdb.png)
 
 {{< rule >}}
-"Nghiêm trong" and "nghiêm túc" mean serious:
+"Nghiêm trọng" and "nghiêm túc" mean serious:
 
-While "nghiêm trong" is used with events or things,
+While "nghiêm trọng" is used with events or things,
 "nghiêm túc" usually describes person's personality or manner.
 {{< /rule >}}
 
