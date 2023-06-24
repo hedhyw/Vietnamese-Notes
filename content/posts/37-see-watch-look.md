@@ -45,7 +45,7 @@ categories: [a2,word]
   ` >}}Anh{{< /tooltip >}}
   {{< tooltip "look" >}}nhìn{{< /tooltip >}}
   {{< tooltip "carefully" >}}kỹ{{< /tooltip >}}
-  {{< tooltip "vô" >}}into{{< /tooltip >}}
+  {{< tooltip "into" >}}vô{{< /tooltip >}}
   {{< tooltip "watch" >}}coi{{< /tooltip >}}
   {{< tooltip "to have" >}}có{{< /tooltip >}}
   {{< tooltip "see" >}}thấy{{< /tooltip >}}
