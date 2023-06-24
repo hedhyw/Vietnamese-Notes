@@ -1,5 +1,5 @@
 ---
-title: "Verbs \"Look\", \"watch\", \"see\" in Vietnamese"
+title: "Verbs \"look\", \"watch\", \"see\" in Vietnamese"
 date: 2023-06-24T00:00:00+00:00
 categories: [a2,word]
 ---
