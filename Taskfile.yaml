@@ -13,6 +13,15 @@ tasks:
     cmds:
       - hugo server -D
 
+  remote:
+    desc: |
+      Run the server with remote address.
+
+      Example usage:
+          task remote -- https://example.com/
+    cmds:
+      - hugo server --appendPort=false --baseURL "{{.CLI_ARGS}}"
+
   generate:
     desc: Generate static code.
     cmds:
